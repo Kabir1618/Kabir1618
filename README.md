@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kabir Singla</h1>
-<h3 align="center">A passionate Data enthusiast from India. Data Alchemist: Transforming Numbers into Insights</h3>
+<h3 align="center">A passionate Data enthusiast from India.</h3>
+<h3 align="center">Data Alchemist: Transforming Numbers into Insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabir1618&label=Profile%20views&color=0e75b6&style=flat" alt="kabir1618" /> </p>
 
