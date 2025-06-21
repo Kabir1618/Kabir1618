@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabir1618" alt="kabir1618" /></a> </p>
 
-- 📫 How to reach me **Kabir18singla@gmail.com**
+- 📫 How to reach me **Kabir.singla.1810@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lraIX_fORWLocKhafRyqaZ5k6o3DBkXH/view?usp=drive_link](https://drive.google.com/file/d/1lraIX_fORWLocKhafRyqaZ5k6o3DBkXH/view?usp=drive_link)
 
